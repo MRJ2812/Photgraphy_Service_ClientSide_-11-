@@ -5,7 +5,7 @@ import { useLoaderData } from 'react-router-dom';
 const Premium = () => {
     const detail = useLoaderData();
 
-    console.log(detail)
+
 
     return (
         <div className='text-center'>
