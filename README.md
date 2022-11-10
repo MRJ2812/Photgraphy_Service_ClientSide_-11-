@@ -10,4 +10,6 @@
 
 # vercel (server deplay)
 
-##########
+# firebase hosting
+
+#########
